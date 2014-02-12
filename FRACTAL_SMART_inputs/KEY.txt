@@ -1,0 +1,11 @@
+Wolf and Toon 2010
+
+df: the structural properties of the aggregate can be quantified to first order by the "fractal dimension", which describes the morphological dimension of the aggregate: Df = 3 is a compact spherical particle.  Df = 1 describes a linear chain.  When Df < 3 the particle radius is not easily defined.
+
+The radius of a fractal aggregate can be defined by:
+nmon = alpha * (Rf / rmon) ^ df
+where nmon = the number of monomers contained in the aggregate, alpha is a dimensionless constant (taken to be unity), and rmon is the average monomer radius.  
+
+Fractal particles behave like a bimodal distribution of spherical particles.  Monomers contained within the aggregate interact strongly with shortwave radiation, whereas the bulk size of the aggregate affects longer wavelengths.  
+
+Titan haze refractive indices are assumed.  Fractal aggregates are more absorbing in the UV and more transparent in the visible and NIR than mie particles of equal mass.
